@@ -1,6 +1,6 @@
 {
-    "name": "This is Inline Search Bot by @GreyMatter_Bots",
-    "description": "This is Inline Channel Messages Search Bot by @GreyMatter_Bots",
+    "name": "This is Inline Search Bot by @Mdiskzone",
+    "description": "This is Inline Channel Messages Search Bot by @Mdiskzone",
     "keywords": [
         "telegram",
         "channel",
@@ -9,8 +9,8 @@
         "bot"
     ],
     "repository": "https://github.com/GreyMattersBot",
-    "website": "https://telegram.dog/GreyMatter_Bots",
-    "success_url": "https://t.me/GreyMatter_Bot",
+    "website": "https://telegram.dog/MdiskZone",
+    "success_url": "https://t.me/MdiskZone",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org or @USERS_RO_BOT"
