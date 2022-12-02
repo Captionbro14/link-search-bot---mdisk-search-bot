@@ -24,10 +24,10 @@ class Config(object):
 
 📡 Server: <a href='koyeb.com'>Koyeb</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+👨‍💻 Created By: <a href='https://t.me/MdiskZone'>MdiskZone's Bot</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/MdiskZone'>MdiskZone's Bot</a>
 If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
 """
 
@@ -38,7 +38,7 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @Mdiskzone</a></b>
 """
 
 
@@ -49,6 +49,6 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @Mdiskzone</a></b>
 """
 
